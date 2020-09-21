@@ -10,7 +10,7 @@ import (
 	"github.com/rs/cors"
 	"github.com/unrolled/render"
 
-	"github.com/jooho/localbuddy-server/model"
+	"github.com/Jooho/localbuddy-server/model"
 )
 
 // Config return configuration for server

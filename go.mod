@@ -1,4 +1,4 @@
-module github.com/jooho/localbuddy-server
+module github.com/Jooho/localbuddy-server
 
 go 1.15
 
